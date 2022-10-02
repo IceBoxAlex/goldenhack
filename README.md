@@ -42,8 +42,6 @@ Figma, Flutter, Andriod Studio, Google Maps Api, Distance Matrix Api
 ### Main Page
 ![main-page-screen](https://user-images.githubusercontent.com/43526001/193460600-edd54a5b-f11b-4f7f-90d1-ca206a744a7e.jpg)
 
-![main-page-b-screen](https://user-images.githubusercontent.com/43526001/193460608-3059dd54-f576-4785-8626-11a7d756dbfd.jpg)
-
 <hr />
 
 
