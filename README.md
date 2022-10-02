@@ -19,7 +19,7 @@ Goal: To help students view how much they could save by driving less and using m
 
 
 ## How we built it
-Our team began by brainstorming ideas to meet the criteria of the challenge while minimizing the churn rate of our application. We listed out our main idea for our application and continuously added new ideas/features onto our application. Secondly, our team split up into two groups. One team focused on learning how to use flutter’s mobile UI framework in order to build the application. The other group focused on coming up with the UX design of the application, adding more features, creating the business proposal script and making our solution more creative for a higher user retention rate. 
+Our team began by brainstorming ideas to meet the criteria of the challenge while minimizing the churn rate of our application. We listed out our main idea for our application and continuously added new ideas/features onto our application. Secondly, our team split up into two groups. One team (Alex and Aryan) focused on learning how to use flutter’s mobile UI framework and android studio in order to build the application. The other group (Arnav and Shehreyar) focused on coming up with the UX design of the application, adding more features, creating the business proposal script and making our solution more creative for a higher user retention rate. 
 
  
 ## Tools and Technologies Used
