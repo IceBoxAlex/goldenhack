@@ -16,7 +16,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
@@ -25,18 +24,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-
-
-// class WelcomePage extends StatelessWidget {
-//   const WelcomePage({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         title: const Center(child: Text('Title for Test App'),
-//       ),
-//     );
-//   }
-// }
