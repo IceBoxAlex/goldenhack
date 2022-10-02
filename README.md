@@ -3,10 +3,13 @@
 The Carlytical mobile application is a carbon footprint tracker using Google Maps API location tracking to calculate the total amount of money, carbon emissions, distance, and time you spend each time you drive. This app allows you to conveniently view the amount of money you spend on each car ride you take. Additionally, you can see how much money you've spent on gas collectively at the end of each week and month. This promotes users to be more conscious of how much they spend on driving to encourage more sustainable options such as public transit or biking.
 
 ## Members
-Alex - IceBoxAlex
-Aryan Gandhi - aryangandhi
-Shehreyar Manzar - DeEcrou
-Arnav Chauhan
+(Name - Github ID)
+<ul>
+<li>Alex - IceBoxAlex</li>
+<li>Aryan Gandhi - aryangandhi</li>
+<li>Shehreyar Manzar - DeEcrou</li>
+<li>Arnav Chauhan - MrCobble</li>
+</ul>
 
 ## Inspiration
 Reducing air pollution and slowing the effects of climate change while providing users with value.
